@@ -4,12 +4,13 @@ error_reporting(0);
 
 // ==== BEGIN / variabel must be adjusted ====
 
-$token = "bot" . "<token>";
-$proxy = "<proxy_IP>:<port>";
-$mysql_host = "<host>";
-$mysql_user = "<user>";
-$mysql_pass = "<pass>";
-$mysql_dbname = "<dbname>";
+// $token = "bot" . "<token>";
+$token = "bot" . "1190188583:AAGX5KQ8HMmTc6n19iwe8ZMmO3HMVi8km5k";
+$proxy = ""; //"<proxy_IP>:<port>";
+$mysql_host = "localhost"; //"<host>";
+$mysql_user = "root"; //"<user>";
+$mysql_pass = ""; //"<pass>";
+$mysql_dbname = "telegram"; //"<dbname>";
 
 // ==== END / variabel must be adjusted ====
 
